@@ -6,7 +6,6 @@
 - 首先安装 [squirrel](github.com/rime/squirrel)
 - 然后利用如下代码安装本插件
 ```
-cd
-git clone  git@github.com:lipingcoding/Rime-config.git
-mv Rime-config ~/Libraray/Rime
+rm -rf ~/Library/Rime
+git clone  git@github.com:lipingcoding/Rime-config.git ~/Library/Rime
 ```
