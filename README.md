@@ -9,3 +9,4 @@
 rm -rf ~/Library/Rime
 git clone  git@github.com:lipingcoding/Rime-config.git ~/Library/Rime
 ```
+- 最后重新布署你的 squirrel
