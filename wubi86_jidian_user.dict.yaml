@@ -17,7 +17,21 @@ sort: original
 # `##` 两个 # 开头的会被识别为分组名，其后跟的词条就是该组的内容
 
 ...
+## 普通词组
+题干	jgfg
+行测	tfim
+好滴	vbiu
+
+## 未命名
+
 ## 文本替换
 王礼萍	name
 15022322046	cell
+34022319970302811X	id
+wangliping2019@ia.ac.cn	mail
+
+## 地名
+工山	aamm
+南陵	fmbf
+海淀	itip
 
